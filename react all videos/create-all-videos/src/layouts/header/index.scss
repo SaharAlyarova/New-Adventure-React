@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    column-gap: 10px;
+    li{
+        color:green;
+        list-style: none;
+    }
+}
+.rengyellow{
+    background-color: yellow;
+    color:white
+}
+.renkred{
+    background-color: red;
+    color: white;
+}
