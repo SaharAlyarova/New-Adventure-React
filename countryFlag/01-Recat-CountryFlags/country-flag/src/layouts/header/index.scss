@@ -1,0 +1,19 @@
+.container{
+width: 100vw;
+margin: 0 auto;
+padding: 0;
+    .header{
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: black;
+color: white;
+
+.dark-mode{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+}
+}
